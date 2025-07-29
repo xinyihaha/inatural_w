@@ -1,0 +1,2368 @@
+[
+  {
+    "image_path": "D:\\膜翅目\\蚁\\1.2.JPG",
+    "photo_id": null,
+    "taxon_id": 180035,
+    "taxon_name": "Dysdercus",
+    "common_name": "棉红蝽属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Pyrrhocoridae",
+      "tribe": null,
+      "genus": "Dysdercus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5020092.JPG",
+    "photo_id": null,
+    "taxon_id": 122321,
+    "taxon_name": "Polyrhachis",
+    "common_name": "多刺蚁属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Polyrhachis"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5020130.JPG",
+    "photo_id": null,
+    "taxon_id": 50265,
+    "taxon_name": "Lamiinae",
+    "common_name": "沟胫天牛亚科",
+    "score": 86.35169093666033,
+    "hierarchy": {
+      "subfamily": "Lamiinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5020176.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 79.24388819536254,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5020181.JPG",
+    "photo_id": null,
+    "taxon_id": 346653,
+    "taxon_name": "Odontoponera",
+    "common_name": "齿猛蚁属",
+    "score": 98.93546928951646,
+    "hierarchy": {
+      "subfamily": "Ponerinae",
+      "tribe": "Ponerini",
+      "genus": "Odontoponera"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5020183.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5020235.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 98.27703280759197,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5020236.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 90.28648177019285,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5020315.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 97.83499961682767,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5020322.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5020323.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5020324.JPG",
+    "photo_id": null,
+    "taxon_id": 244394,
+    "taxon_name": "Dolichoderinae",
+    "common_name": "臭蚁亚科",
+    "score": 85.26396145203992,
+    "hierarchy": {
+      "subfamily": "Dolichoderinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5020325.JPG",
+    "photo_id": null,
+    "taxon_id": 120029,
+    "taxon_name": "Dolichoderus",
+    "common_name": "臭蚁属",
+    "score": 96.81036506374234,
+    "hierarchy": {
+      "subfamily": "Dolichoderinae",
+      "tribe": "Dolichoderini",
+      "genus": "Dolichoderus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5020433.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 83.95753141288839,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5020443.JPG",
+    "photo_id": null,
+    "taxon_id": 362474,
+    "taxon_name": "Membracinae",
+    "common_name": "角蝉亚科",
+    "score": 90.12069846682719,
+    "hierarchy": {
+      "subfamily": "Membracinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5020444.JPG",
+    "photo_id": null,
+    "taxon_id": 49024,
+    "taxon_name": "Membracidae",
+    "common_name": "角蝉科",
+    "score": 94.6368315675916,
+    "hierarchy": {
+      "subfamily": "Membracidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5020483.JPG",
+    "photo_id": null,
+    "taxon_id": 320199,
+    "taxon_name": "Harpactorinae",
+    "common_name": "真猎蝽亚科",
+    "score": 96.1320551006389,
+    "hierarchy": {
+      "subfamily": "Harpactorinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5020485.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 94.52811906291318,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030210.JPG",
+    "photo_id": null,
+    "taxon_id": 155025,
+    "taxon_name": "Tetraponera",
+    "common_name": "细长蚁属",
+    "score": 84.33669147723751,
+    "hierarchy": {
+      "subfamily": "Pseudomyrmecinae",
+      "tribe": null,
+      "genus": "Tetraponera"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030212.JPG",
+    "photo_id": null,
+    "taxon_id": 69143,
+    "taxon_name": "Myrmicinae",
+    "common_name": "切叶蚁亚科",
+    "score": 90.51065175255077,
+    "hierarchy": {
+      "subfamily": "Myrmicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030213.JPG",
+    "photo_id": null,
+    "taxon_id": 348934,
+    "taxon_name": "Myrmicaria",
+    "common_name": "脊红蚁属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Myrmicinae",
+      "tribe": "Solenopsidini",
+      "genus": "Myrmicaria"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030214.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030216.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030217.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030227.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 93.75079999707586,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030230.JPG",
+    "photo_id": null,
+    "taxon_id": 62781,
+    "taxon_name": "Camponotus",
+    "common_name": "弓背蚁属",
+    "score": 84.49552883485015,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Camponotus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030231.JPG",
+    "photo_id": null,
+    "taxon_id": 62781,
+    "taxon_name": "Camponotus",
+    "common_name": "弓背蚁属",
+    "score": 95.27931024775208,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Camponotus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030232.JPG",
+    "photo_id": null,
+    "taxon_id": 62781,
+    "taxon_name": "Camponotus",
+    "common_name": "弓背蚁属",
+    "score": 90.41804903831418,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Camponotus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030233.JPG",
+    "photo_id": null,
+    "taxon_id": 62781,
+    "taxon_name": "Camponotus",
+    "common_name": "弓背蚁属",
+    "score": 98.33845993506765,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Camponotus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030263.JPG",
+    "photo_id": null,
+    "taxon_id": 334375,
+    "taxon_name": "Camponotini",
+    "common_name": "弓背蚁族",
+    "score": 84.19277383820317,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030299.JPG",
+    "photo_id": null,
+    "taxon_id": 122321,
+    "taxon_name": "Polyrhachis",
+    "common_name": "多刺蚁属",
+    "score": 85.7565639953505,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Polyrhachis"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030303.JPG",
+    "photo_id": null,
+    "taxon_id": 69143,
+    "taxon_name": "Myrmicinae",
+    "common_name": "切叶蚁亚科",
+    "score": 96.33555013103478,
+    "hierarchy": {
+      "subfamily": "Myrmicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030304.JPG",
+    "photo_id": null,
+    "taxon_id": 47343,
+    "taxon_name": "Pheidole",
+    "common_name": "大头蚁属",
+    "score": 82.30109349558067,
+    "hierarchy": {
+      "subfamily": "Myrmicinae",
+      "tribe": "Attini",
+      "genus": "Pheidole"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030305.JPG",
+    "photo_id": null,
+    "taxon_id": 69143,
+    "taxon_name": "Myrmicinae",
+    "common_name": "切叶蚁亚科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Myrmicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030309.JPG",
+    "photo_id": null,
+    "taxon_id": 69143,
+    "taxon_name": "Myrmicinae",
+    "common_name": "切叶蚁亚科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Myrmicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030322.JPG",
+    "photo_id": null,
+    "taxon_id": 469107,
+    "taxon_name": "Crematogastrini",
+    "common_name": "举腹蚁族",
+    "score": 80.28393400049004,
+    "hierarchy": {
+      "subfamily": "Myrmicinae",
+      "tribe": "Crematogastrini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030323.JPG",
+    "photo_id": null,
+    "taxon_id": 69143,
+    "taxon_name": "Myrmicinae",
+    "common_name": "切叶蚁亚科",
+    "score": 98.91114436166312,
+    "hierarchy": {
+      "subfamily": "Myrmicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030565.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5030567.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5040074.JPG",
+    "photo_id": null,
+    "taxon_id": 49024,
+    "taxon_name": "Membracidae",
+    "common_name": "角蝉科",
+    "score": 91.60876559684019,
+    "hierarchy": {
+      "subfamily": "Membracidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5040076.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 96.55448228648275,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5040261.JPG",
+    "photo_id": null,
+    "taxon_id": 62781,
+    "taxon_name": "Camponotus",
+    "common_name": "弓背蚁属",
+    "score": 95.92391644292788,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Camponotus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5040262.JPG",
+    "photo_id": null,
+    "taxon_id": 62781,
+    "taxon_name": "Camponotus",
+    "common_name": "弓背蚁属",
+    "score": 86.60791140167254,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Camponotus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5040292.JPG",
+    "photo_id": null,
+    "taxon_id": 334375,
+    "taxon_name": "Camponotini",
+    "common_name": "弓背蚁族",
+    "score": 97.99164985799514,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5040803.JPG",
+    "photo_id": null,
+    "taxon_id": 62781,
+    "taxon_name": "Camponotus",
+    "common_name": "弓背蚁属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Camponotus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5050134.JPG",
+    "photo_id": null,
+    "taxon_id": 122321,
+    "taxon_name": "Polyrhachis",
+    "common_name": "多刺蚁属",
+    "score": 99.35877456085616,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Polyrhachis"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5050135.JPG",
+    "photo_id": null,
+    "taxon_id": 122321,
+    "taxon_name": "Polyrhachis",
+    "common_name": "多刺蚁属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Polyrhachis"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5050159.JPG",
+    "photo_id": null,
+    "taxon_id": 69570,
+    "taxon_name": "Technomyrmex",
+    "common_name": "狡臭蚁属",
+    "score": 90.8575419745764,
+    "hierarchy": {
+      "subfamily": "Dolichoderinae",
+      "tribe": "Tapinomini",
+      "genus": "Technomyrmex"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5050160.JPG",
+    "photo_id": null,
+    "taxon_id": 69570,
+    "taxon_name": "Technomyrmex",
+    "common_name": "狡臭蚁属",
+    "score": 83.98668631085364,
+    "hierarchy": {
+      "subfamily": "Dolichoderinae",
+      "tribe": "Tapinomini",
+      "genus": "Technomyrmex"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5050194.JPG",
+    "photo_id": null,
+    "taxon_id": 62781,
+    "taxon_name": "Camponotus",
+    "common_name": "弓背蚁属",
+    "score": 81.73866779479575,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Camponotus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5050273.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 89.16000771586806,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5050275.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 78.76079980645589,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5050276.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 90.68846406688634,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5050278.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 83.25989006521205,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5050293.JPG",
+    "photo_id": null,
+    "taxon_id": 356156,
+    "taxon_name": "Traulia",
+    "common_name": "突额蝗属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Catantopinae",
+      "tribe": "Mesambriini",
+      "genus": "Traulia"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5050334.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5050336.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5050339.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5050341.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5050346.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 95.6524541611121,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5050601.JPG",
+    "photo_id": null,
+    "taxon_id": 1230076,
+    "taxon_name": "Xyleborini",
+    "common_name": "材小蠹族",
+    "score": 82.61888769600132,
+    "hierarchy": {
+      "subfamily": "Scolytinae",
+      "tribe": "Xyleborini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5050687.JPG",
+    "photo_id": null,
+    "taxon_id": 209770,
+    "taxon_name": "Cryptalaus",
+    "common_name": "斑叩甲属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Agrypninae",
+      "tribe": "Hemirhipini",
+      "genus": "Cryptalaus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5050822.JPG",
+    "photo_id": null,
+    "taxon_id": 368752,
+    "taxon_name": "Aenictus",
+    "common_name": "双节行军蚁属",
+    "score": 94.2574745445265,
+    "hierarchy": {
+      "subfamily": "Dorylinae",
+      "tribe": null,
+      "genus": "Aenictus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5050823.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060155.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 97.34593646053878,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060156.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060157.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 87.70693990020257,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060165.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 98.0182773445483,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060167.JPG",
+    "photo_id": null,
+    "taxon_id": 122321,
+    "taxon_name": "Polyrhachis",
+    "common_name": "多刺蚁属",
+    "score": 83.96154742097956,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Polyrhachis"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060168.JPG",
+    "photo_id": null,
+    "taxon_id": 122321,
+    "taxon_name": "Polyrhachis",
+    "common_name": "多刺蚁属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Polyrhachis"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060170.JPG",
+    "photo_id": null,
+    "taxon_id": 122321,
+    "taxon_name": "Polyrhachis",
+    "common_name": "多刺蚁属",
+    "score": 94.33455024016632,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Polyrhachis"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060171.JPG",
+    "photo_id": null,
+    "taxon_id": 122321,
+    "taxon_name": "Polyrhachis",
+    "common_name": "多刺蚁属",
+    "score": 91.57267497344165,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Polyrhachis"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060175.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 93.27460124750633,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060179.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 95.09403864442501,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060181.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 97.70603842589452,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060198.JPG",
+    "photo_id": null,
+    "taxon_id": 69143,
+    "taxon_name": "Myrmicinae",
+    "common_name": "切叶蚁亚科",
+    "score": 94.097926756974,
+    "hierarchy": {
+      "subfamily": "Myrmicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060200.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 79.53270997462056,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060202.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 91.06932861988052,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060203.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 97.00236057044684,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060205.JPG",
+    "photo_id": null,
+    "taxon_id": 69143,
+    "taxon_name": "Myrmicinae",
+    "common_name": "切叶蚁亚科",
+    "score": 93.71589923852886,
+    "hierarchy": {
+      "subfamily": "Myrmicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060206.JPG",
+    "photo_id": null,
+    "taxon_id": 69143,
+    "taxon_name": "Myrmicinae",
+    "common_name": "切叶蚁亚科",
+    "score": 94.75083017104478,
+    "hierarchy": {
+      "subfamily": "Myrmicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060227.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 79.49956356996452,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060232.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060233.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 80.52801603378603,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060235.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 97.32483479726854,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060236.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 84.52038621699374,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060239.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 86.5681918326352,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060240.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 86.94022868421342,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060259.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 96.43363027893635,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060260.JPG",
+    "photo_id": null,
+    "taxon_id": 348934,
+    "taxon_name": "Myrmicaria",
+    "common_name": "脊红蚁属",
+    "score": 97.39371497849642,
+    "hierarchy": {
+      "subfamily": "Myrmicinae",
+      "tribe": "Solenopsidini",
+      "genus": "Myrmicaria"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060309.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 88.52206792421057,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060310.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 90.50688639060282,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060312.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 98.70392629696852,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060313.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060322.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 86.14965575082829,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060324.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 80.05391147943442,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060328.JPG",
+    "photo_id": null,
+    "taxon_id": 62781,
+    "taxon_name": "Camponotus",
+    "common_name": "弓背蚁属",
+    "score": 94.41735088707675,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Camponotus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060370.JPG",
+    "photo_id": null,
+    "taxon_id": 69143,
+    "taxon_name": "Myrmicinae",
+    "common_name": "切叶蚁亚科",
+    "score": 93.46327966279813,
+    "hierarchy": {
+      "subfamily": "Myrmicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060372.JPG",
+    "photo_id": null,
+    "taxon_id": 69143,
+    "taxon_name": "Myrmicinae",
+    "common_name": "切叶蚁亚科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Myrmicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060389.JPG",
+    "photo_id": null,
+    "taxon_id": 69100,
+    "taxon_name": "Monomorium",
+    "common_name": "小家蚁属",
+    "score": 98.79612587587032,
+    "hierarchy": {
+      "subfamily": "Myrmicinae",
+      "tribe": "Solenopsidini",
+      "genus": "Monomorium"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060397.JPG",
+    "photo_id": null,
+    "taxon_id": 122321,
+    "taxon_name": "Polyrhachis",
+    "common_name": "多刺蚁属",
+    "score": 83.95857835312705,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Polyrhachis"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060399.JPG",
+    "photo_id": null,
+    "taxon_id": 122321,
+    "taxon_name": "Polyrhachis",
+    "common_name": "多刺蚁属",
+    "score": 91.02454627878134,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Polyrhachis"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060455.JPG",
+    "photo_id": null,
+    "taxon_id": 272571,
+    "taxon_name": "Callirhipis",
+    "common_name": "扇角甲属",
+    "score": 95.20503134040973,
+    "hierarchy": {
+      "subfamily": "Callirhipidae",
+      "tribe": null,
+      "genus": "Callirhipis"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060457.JPG",
+    "photo_id": null,
+    "taxon_id": 272571,
+    "taxon_name": "Callirhipis",
+    "common_name": "扇角甲属",
+    "score": 98.46572948660265,
+    "hierarchy": {
+      "subfamily": "Callirhipidae",
+      "tribe": null,
+      "genus": "Callirhipis"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060470.JPG",
+    "photo_id": null,
+    "taxon_id": 122321,
+    "taxon_name": "Polyrhachis",
+    "common_name": "多刺蚁属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Polyrhachis"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060819.JPG",
+    "photo_id": null,
+    "taxon_id": 62781,
+    "taxon_name": "Camponotus",
+    "common_name": "弓背蚁属",
+    "score": 83.77787641425049,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Camponotus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060820.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 97.27327500270648,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\P5060821.JPG",
+    "photo_id": null,
+    "taxon_id": 62781,
+    "taxon_name": "Camponotus",
+    "common_name": "弓背蚁属",
+    "score": 80.55500667314904,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Camponotus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\角胸叶蝉属-Tituria sp-1.3.jpg",
+    "photo_id": null,
+    "taxon_id": 528653,
+    "taxon_name": "Tituria",
+    "common_name": "角胸叶蝉属",
+    "score": 84.41894298786458,
+    "hierarchy": {
+      "subfamily": "Ledrinae",
+      "tribe": "Ledrini",
+      "genus": "Tituria"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\1\\P5030179.JPG",
+    "photo_id": null,
+    "taxon_id": 348934,
+    "taxon_name": "Myrmicaria",
+    "common_name": "脊红蚁属",
+    "score": 94.6447226674289,
+    "hierarchy": {
+      "subfamily": "Myrmicinae",
+      "tribe": "Solenopsidini",
+      "genus": "Myrmicaria"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\1\\P5030180.JPG",
+    "photo_id": null,
+    "taxon_id": 348934,
+    "taxon_name": "Myrmicaria",
+    "common_name": "脊红蚁属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Myrmicinae",
+      "tribe": "Solenopsidini",
+      "genus": "Myrmicaria"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\1\\P5030181.JPG",
+    "photo_id": null,
+    "taxon_id": 348934,
+    "taxon_name": "Myrmicaria",
+    "common_name": "脊红蚁属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Myrmicinae",
+      "tribe": "Solenopsidini",
+      "genus": "Myrmicaria"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\11\\P5020246.JPG",
+    "photo_id": null,
+    "taxon_id": 334375,
+    "taxon_name": "Camponotini",
+    "common_name": "弓背蚁族",
+    "score": 90.07074389691596,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\11\\P5020247.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\12\\P5020359.jpg",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 78.39338518417127,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\13\\P5020613.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 86.64813582277374,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\13\\P5020614.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 96.96683114556973,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\14\\P5030258.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\17\\P5030223.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 92.07641524676899,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\18\\P5030235.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 83.93129026852623,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\19\\P5030275.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 97.38609310849161,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\19\\P5030276.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 96.39859534504195,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\2\\P5050043.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 98.62708635187741,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\2\\P5050045.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\2\\P5050047.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\20\\P5030520.JPG",
+    "photo_id": null,
+    "taxon_id": 637569,
+    "taxon_name": "Lasiini",
+    "common_name": "毛蚁族",
+    "score": 84.37030414628973,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Lasiini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\21\\P5030642.JPG",
+    "photo_id": null,
+    "taxon_id": 542490,
+    "taxon_name": "Pseudolasius",
+    "common_name": "拟毛蚁属",
+    "score": 90.50332640547886,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Lasiini",
+      "genus": "Pseudolasius"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\21\\P5030643.JPG",
+    "photo_id": null,
+    "taxon_id": 542490,
+    "taxon_name": "Pseudolasius",
+    "common_name": "拟毛蚁属",
+    "score": 83.41313222075975,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Lasiini",
+      "genus": "Pseudolasius"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\23\\P5030627.JPG",
+    "photo_id": null,
+    "taxon_id": 48128,
+    "taxon_name": "Phaneropterinae",
+    "common_name": "露螽亚科",
+    "score": 98.10144342095171,
+    "hierarchy": {
+      "subfamily": "Phaneropterinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\24\\P5040039.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 89.60188550287197,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\24\\P5040040.JPG",
+    "photo_id": null,
+    "taxon_id": 334375,
+    "taxon_name": "Camponotini",
+    "common_name": "弓背蚁族",
+    "score": 80.45952522274948,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\24\\P5040041.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 82.55734455806547,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\25\\P5040079.JPG",
+    "photo_id": null,
+    "taxon_id": 49567,
+    "taxon_name": "Carabidae",
+    "common_name": "步甲科",
+    "score": 93.65813916282059,
+    "hierarchy": {
+      "subfamily": "Carabidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\26\\P5040280.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 85.06134293253082,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\26\\P5040284.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 82.90502969868253,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\27\\P5040317.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 93.99392627526619,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\28\\P5040344.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\29\\P5040296.JPG",
+    "photo_id": null,
+    "taxon_id": 62781,
+    "taxon_name": "Camponotus",
+    "common_name": "弓背蚁属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Camponotus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\29\\P5040297.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 78.15428927504688,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\29\\P5040298.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 87.98450097765425,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\3\\P5020133.JPG",
+    "photo_id": null,
+    "taxon_id": 542321,
+    "taxon_name": "Hoplocerambyx",
+    "common_name": "沟额天牛属",
+    "score": 91.98607469387554,
+    "hierarchy": {
+      "subfamily": "Cerambycinae",
+      "tribe": "Cerambycini",
+      "genus": "Hoplocerambyx"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\31\\P5050107.JPG",
+    "photo_id": null,
+    "taxon_id": 62781,
+    "taxon_name": "Camponotus",
+    "common_name": "弓背蚁属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Camponotus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\31\\P5050108.JPG",
+    "photo_id": null,
+    "taxon_id": 62781,
+    "taxon_name": "Camponotus",
+    "common_name": "弓背蚁属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Camponotus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\31\\P5050109.JPG",
+    "photo_id": null,
+    "taxon_id": 62781,
+    "taxon_name": "Camponotus",
+    "common_name": "弓背蚁属",
+    "score": 98.63315576916865,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Camponotus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\31\\P5050110.JPG",
+    "photo_id": null,
+    "taxon_id": 62781,
+    "taxon_name": "Camponotus",
+    "common_name": "弓背蚁属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Camponotus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\32\\P5050248.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 78.55383836403448,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\33\\P5050301.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 83.2150335664445,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\34\\P5050629.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 98.33465420631022,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\34\\P5050630.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 82.00335100665632,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\36\\P5060520.JPG",
+    "photo_id": null,
+    "taxon_id": 523243,
+    "taxon_name": "Pseudophyllini",
+    "common_name": "拟叶螽族",
+    "score": 91.83265546866181,
+    "hierarchy": {
+      "subfamily": "Pseudophyllinae",
+      "tribe": "Pseudophyllini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\37\\P5050303.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 92.33501325488058,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\37\\P5050304.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 92.11918384115428,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\39\\P5060403.JPG",
+    "photo_id": null,
+    "taxon_id": 570864,
+    "taxon_name": "Carinostigmus",
+    "common_name": "隆痣短柄泥蜂属",
+    "score": 78.55787293411412,
+    "hierarchy": {
+      "subfamily": "Pemphredoninae",
+      "tribe": "Pemphredonini",
+      "genus": "Carinostigmus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\39\\P5060404.JPG",
+    "photo_id": null,
+    "taxon_id": 497947,
+    "taxon_name": "Pemphredonini",
+    "common_name": "短柄泥蜂族",
+    "score": 80.13197294304206,
+    "hierarchy": {
+      "subfamily": "Pemphredoninae",
+      "tribe": "Pemphredonini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\39\\P5060405.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 85.35599183496569,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\4\\10.1.jpg",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 87.5725061994826,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\4\\10.2.jpg",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 94.37442290252756,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\40\\P5050255.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 96.65985648324393,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\41\\P5030229.JPG",
+    "photo_id": null,
+    "taxon_id": 62781,
+    "taxon_name": "Camponotus",
+    "common_name": "弓背蚁属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Camponotini",
+      "genus": "Camponotus"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\42\\P5040298.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 96.98542182648583,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\5\\P5030063.JPG",
+    "photo_id": null,
+    "taxon_id": 48887,
+    "taxon_name": "Miconia",
+    "common_name": "绢木属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Melastomatoideae",
+      "tribe": "Miconieae",
+      "genus": "Miconia"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\5\\P5030064.JPG",
+    "photo_id": null,
+    "taxon_id": 48887,
+    "taxon_name": "Miconia",
+    "common_name": "绢木属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Melastomatoideae",
+      "tribe": "Miconieae",
+      "genus": "Miconia"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\5\\P5030065.JPG",
+    "photo_id": null,
+    "taxon_id": 48887,
+    "taxon_name": "Miconia",
+    "common_name": "绢木属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Melastomatoideae",
+      "tribe": "Miconieae",
+      "genus": "Miconia"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\5\\P5030066.JPG",
+    "photo_id": null,
+    "taxon_id": 920780,
+    "taxon_name": "Melastomeae",
+    "common_name": "野牡丹族",
+    "score": 78.30828932333445,
+    "hierarchy": {
+      "subfamily": "Melastomatoideae",
+      "tribe": "Melastomeae",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\5\\P5030067.JPG",
+    "photo_id": null,
+    "taxon_id": 920772,
+    "taxon_name": "Melastomatoideae",
+    "common_name": "野牡丹亚科",
+    "score": 90.16742065524515,
+    "hierarchy": {
+      "subfamily": "Melastomatoideae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\5\\P5030068.JPG",
+    "photo_id": null,
+    "taxon_id": 920772,
+    "taxon_name": "Melastomatoideae",
+    "common_name": "野牡丹亚科",
+    "score": 90.69443697331563,
+    "hierarchy": {
+      "subfamily": "Melastomatoideae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\5\\P5030069.JPG",
+    "photo_id": null,
+    "taxon_id": 48887,
+    "taxon_name": "Miconia",
+    "common_name": "绢木属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Melastomatoideae",
+      "tribe": "Miconieae",
+      "genus": "Miconia"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\5\\P5030070.JPG",
+    "photo_id": null,
+    "taxon_id": 82320,
+    "taxon_name": "Melastoma",
+    "common_name": "野牡丹属",
+    "score": 88.9619369196045,
+    "hierarchy": {
+      "subfamily": "Melastomatoideae",
+      "tribe": "Melastomeae",
+      "genus": "Melastoma"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\5\\P5030071.JPG",
+    "photo_id": null,
+    "taxon_id": 920772,
+    "taxon_name": "Melastomatoideae",
+    "common_name": "野牡丹亚科",
+    "score": 90.8944011830166,
+    "hierarchy": {
+      "subfamily": "Melastomatoideae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\5\\P5030073.JPG",
+    "photo_id": null,
+    "taxon_id": 48887,
+    "taxon_name": "Miconia",
+    "common_name": "绢木属",
+    "score": 88.6086134021793,
+    "hierarchy": {
+      "subfamily": "Melastomatoideae",
+      "tribe": "Miconieae",
+      "genus": "Miconia"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\5\\P5030074.JPG",
+    "photo_id": null,
+    "taxon_id": 48887,
+    "taxon_name": "Miconia",
+    "common_name": "绢木属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Melastomatoideae",
+      "tribe": "Miconieae",
+      "genus": "Miconia"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\5\\P5030075.JPG",
+    "photo_id": null,
+    "taxon_id": 48887,
+    "taxon_name": "Miconia",
+    "common_name": "绢木属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Melastomatoideae",
+      "tribe": "Miconieae",
+      "genus": "Miconia"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\5\\P5030076.JPG",
+    "photo_id": null,
+    "taxon_id": 48887,
+    "taxon_name": "Miconia",
+    "common_name": "绢木属",
+    "score": 97.88728839121798,
+    "hierarchy": {
+      "subfamily": "Melastomatoideae",
+      "tribe": "Miconieae",
+      "genus": "Miconia"
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\6\\P5020058.JPG",
+    "photo_id": null,
+    "taxon_id": 637569,
+    "taxon_name": "Lasiini",
+    "common_name": "毛蚁族",
+    "score": 98.81437052789548,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Lasiini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\6\\P5020059.JPG",
+    "photo_id": null,
+    "taxon_id": 637569,
+    "taxon_name": "Lasiini",
+    "common_name": "毛蚁族",
+    "score": 97.55509564639743,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Lasiini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\6\\P5020060.JPG",
+    "photo_id": null,
+    "taxon_id": 637569,
+    "taxon_name": "Lasiini",
+    "common_name": "毛蚁族",
+    "score": 86.32969898251125,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": "Lasiini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\6\\P5020062.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 98.03443582946075,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\7\\P5020064.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 82.26117881510616,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\7\\P5020068.JPG",
+    "photo_id": null,
+    "taxon_id": 244834,
+    "taxon_name": "Formicinae",
+    "common_name": "蚁亚科",
+    "score": 88.14163599543777,
+    "hierarchy": {
+      "subfamily": "Formicinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\8\\P5020075.JPG",
+    "photo_id": null,
+    "taxon_id": 47336,
+    "taxon_name": "Formicidae",
+    "common_name": "蚁科",
+    "score": 97.37836647156418,
+    "hierarchy": {
+      "subfamily": "Formicidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\9\\P5020077.JPG",
+    "photo_id": null,
+    "taxon_id": 53248,
+    "taxon_name": "Elateridae",
+    "common_name": "叩甲科",
+    "score": 92.34329536828174,
+    "hierarchy": {
+      "subfamily": "Elateridae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\膜翅目\\蚁\\9\\P5020078.JPG",
+    "photo_id": null,
+    "taxon_id": 349129,
+    "taxon_name": "Oxynopterus",
+    "common_name": "尖鞘叩甲属",
+    "score": 86.3904948958216,
+    "hierarchy": {
+      "subfamily": "Oxynopterinae",
+      "tribe": null,
+      "genus": "Oxynopterus"
+    }
+  }
+]

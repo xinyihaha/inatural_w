@@ -1,0 +1,496 @@
+[
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071123.JPG",
+    "photo_id": null,
+    "taxon_id": 84254,
+    "taxon_name": "Psilogramma",
+    "common_name": "霜天蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Sphinginae",
+      "tribe": "Sphingini",
+      "genus": "Psilogramma"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071122.JPG",
+    "photo_id": null,
+    "taxon_id": 209551,
+    "taxon_name": "Hypochrosis",
+    "common_name": "蚀尺蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Ennominae",
+      "tribe": "Hypochrosini",
+      "genus": "Hypochrosis"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071121.JPG",
+    "photo_id": null,
+    "taxon_id": 126018,
+    "taxon_name": "Teulisna",
+    "common_name": "图苔蛾属",
+    "score": 88.04176727758268,
+    "hierarchy": {
+      "subfamily": "Arctiinae",
+      "tribe": "Lithosiini",
+      "genus": "Teulisna"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071120.JPG",
+    "photo_id": null,
+    "taxon_id": 126018,
+    "taxon_name": "Teulisna",
+    "common_name": "图苔蛾属",
+    "score": 90.5061714734867,
+    "hierarchy": {
+      "subfamily": "Arctiinae",
+      "tribe": "Lithosiini",
+      "genus": "Teulisna"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071118.JPG",
+    "photo_id": null,
+    "taxon_id": 126010,
+    "taxon_name": "Macotasa",
+    "common_name": "玛苔蛾属",
+    "score": 88.86495514375963,
+    "hierarchy": {
+      "subfamily": "Arctiinae",
+      "tribe": "Lithosiini",
+      "genus": "Macotasa"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071117.JPG",
+    "photo_id": null,
+    "taxon_id": 361999,
+    "taxon_name": "Tasta",
+    "common_name": "瞳尺蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Ennominae",
+      "tribe": "Baptini",
+      "genus": "Tasta"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071099.JPG",
+    "photo_id": null,
+    "taxon_id": 355248,
+    "taxon_name": "Macaduma",
+    "common_name": "漫苔蛾属",
+    "score": 86.45408819240552,
+    "hierarchy": {
+      "subfamily": "Arctiinae",
+      "tribe": "Lithosiini",
+      "genus": "Macaduma"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071097.JPG",
+    "photo_id": null,
+    "taxon_id": 199657,
+    "taxon_name": "Chloroclystis",
+    "common_name": "沦尺蛾属",
+    "score": 80.49447588712255,
+    "hierarchy": {
+      "subfamily": "Larentiinae",
+      "tribe": "Eupitheciini",
+      "genus": "Chloroclystis"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071095.JPG",
+    "photo_id": null,
+    "taxon_id": 122486,
+    "taxon_name": "Spilomelinae",
+    "common_name": "斑野螟亚科",
+    "score": 95.12713865098436,
+    "hierarchy": {
+      "subfamily": "Spilomelinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071094.JPG",
+    "photo_id": null,
+    "taxon_id": 751616,
+    "taxon_name": "Probithia",
+    "common_name": null,
+    "score": 97.49115202987393,
+    "hierarchy": {
+      "subfamily": "Ennominae",
+      "tribe": null,
+      "genus": "Probithia"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071081.JPG",
+    "photo_id": null,
+    "taxon_id": 124859,
+    "taxon_name": "Athetis",
+    "common_name": "委夜蛾属",
+    "score": 98.86134317320406,
+    "hierarchy": {
+      "subfamily": "Noctuinae",
+      "tribe": "Caradrinini",
+      "genus": "Athetis"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071079.JPG",
+    "photo_id": null,
+    "taxon_id": 205160,
+    "taxon_name": "Oxyodes",
+    "common_name": "佩夜蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Erebinae",
+      "tribe": "Poaphilini",
+      "genus": "Oxyodes"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071078.JPG",
+    "photo_id": null,
+    "taxon_id": 205160,
+    "taxon_name": "Oxyodes",
+    "common_name": "佩夜蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Erebinae",
+      "tribe": "Poaphilini",
+      "genus": "Oxyodes"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071075.JPG",
+    "photo_id": null,
+    "taxon_id": 52872,
+    "taxon_name": "Nola",
+    "common_name": "瘤蛾属",
+    "score": 94.79519898096311,
+    "hierarchy": {
+      "subfamily": "Nolinae",
+      "tribe": "Nolini",
+      "genus": "Nola"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071074.JPG",
+    "photo_id": null,
+    "taxon_id": 122479,
+    "taxon_name": "Herminiinae",
+    "common_name": "长须夜蛾亚科",
+    "score": 87.8738662022851,
+    "hierarchy": {
+      "subfamily": "Herminiinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071071.JPG",
+    "photo_id": null,
+    "taxon_id": 196589,
+    "taxon_name": "Hyposidra",
+    "common_name": "钩翅尺蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Ennominae",
+      "tribe": "Boarmiini",
+      "genus": "Hyposidra"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071068.JPG",
+    "photo_id": null,
+    "taxon_id": 199533,
+    "taxon_name": "Nolini",
+    "common_name": "瘤蛾族",
+    "score": 80.81726405908648,
+    "hierarchy": {
+      "subfamily": "Nolinae",
+      "tribe": "Nolini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071066.JPG",
+    "photo_id": null,
+    "taxon_id": 52002,
+    "taxon_name": "Crambidae",
+    "common_name": "草螟科",
+    "score": 79.65688806838055,
+    "hierarchy": {
+      "subfamily": "Crambidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071065.JPG",
+    "photo_id": null,
+    "taxon_id": 209558,
+    "taxon_name": "Luxiaria",
+    "common_name": "辉尺蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Ennominae",
+      "tribe": "Eutoeini",
+      "genus": "Luxiaria"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071064.JPG",
+    "photo_id": null,
+    "taxon_id": 83353,
+    "taxon_name": "Tamba",
+    "common_name": "坦夜蛾属",
+    "score": 93.47783633266256,
+    "hierarchy": {
+      "subfamily": "Boletobiinae",
+      "tribe": null,
+      "genus": "Tamba"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071063.JPG",
+    "photo_id": null,
+    "taxon_id": 83353,
+    "taxon_name": "Tamba",
+    "common_name": "坦夜蛾属",
+    "score": 84.96714905910288,
+    "hierarchy": {
+      "subfamily": "Boletobiinae",
+      "tribe": null,
+      "genus": "Tamba"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071057.JPG",
+    "photo_id": null,
+    "taxon_id": 199440,
+    "taxon_name": "Eurrhyparodes",
+    "common_name": "展须野螟属",
+    "score": 97.58356773789806,
+    "hierarchy": {
+      "subfamily": "Spilomelinae",
+      "tribe": "Herpetogrammatini",
+      "genus": "Eurrhyparodes"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071052.JPG",
+    "photo_id": null,
+    "taxon_id": 204812,
+    "taxon_name": "Talanga",
+    "common_name": "蓝水螟属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Spilomelinae",
+      "tribe": "Margaroniini",
+      "genus": "Talanga"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071051.JPG",
+    "photo_id": null,
+    "taxon_id": 208573,
+    "taxon_name": "Collix",
+    "common_name": "考尺蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Larentiinae",
+      "tribe": "Melanthiini",
+      "genus": "Collix"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071050.JPG",
+    "photo_id": null,
+    "taxon_id": 481145,
+    "taxon_name": "Penicillifera",
+    "common_name": "毛带蚕蛾属",
+    "score": 83.71523627514635,
+    "hierarchy": {
+      "subfamily": "Bombycinae",
+      "tribe": null,
+      "genus": "Penicillifera"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071049.JPG",
+    "photo_id": null,
+    "taxon_id": 47607,
+    "taxon_name": "Noctuoidea",
+    "common_name": "夜蛾总科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": null,
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071047.JPG",
+    "photo_id": null,
+    "taxon_id": 124574,
+    "taxon_name": "Lophoptera",
+    "common_name": "脊蕊夜蛾属",
+    "score": 88.14694976266384,
+    "hierarchy": {
+      "subfamily": "Stictopterinae",
+      "tribe": "Odontodini",
+      "genus": "Lophoptera"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071046.JPG",
+    "photo_id": null,
+    "taxon_id": 557978,
+    "taxon_name": "Diplurodes",
+    "common_name": null,
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Ennominae",
+      "tribe": "Boarmiini",
+      "genus": "Diplurodes"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071045.JPG",
+    "photo_id": null,
+    "taxon_id": 125349,
+    "taxon_name": "Conogethes",
+    "common_name": "多斑野螟属",
+    "score": 98.8615234664575,
+    "hierarchy": {
+      "subfamily": "Spilomelinae",
+      "tribe": "Margaroniini",
+      "genus": "Conogethes"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071042.JPG",
+    "photo_id": null,
+    "taxon_id": 122224,
+    "taxon_name": "Noctuinae",
+    "common_name": "夜蛾亚科",
+    "score": 78.67639493635798,
+    "hierarchy": {
+      "subfamily": "Noctuinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071041.JPG",
+    "photo_id": null,
+    "taxon_id": 472181,
+    "taxon_name": "Iambia",
+    "common_name": "雅夜蛾属",
+    "score": 82.37262246050867,
+    "hierarchy": {
+      "subfamily": "Noctuinae",
+      "tribe": null,
+      "genus": "Iambia"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071039.JPG",
+    "photo_id": null,
+    "taxon_id": 124779,
+    "taxon_name": "Batracharta",
+    "common_name": "巴夜蛾属",
+    "score": 89.68452139588331,
+    "hierarchy": {
+      "subfamily": "Erebidae",
+      "tribe": null,
+      "genus": "Batracharta"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071038.JPG",
+    "photo_id": null,
+    "taxon_id": 47607,
+    "taxon_name": "Noctuoidea",
+    "common_name": "夜蛾总科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": null,
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071033.JPG",
+    "photo_id": null,
+    "taxon_id": 52091,
+    "taxon_name": "Idaea",
+    "common_name": "姬尺蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Sterrhinae",
+      "tribe": "Sterrhini",
+      "genus": "Idaea"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071032.JPG",
+    "photo_id": null,
+    "taxon_id": 209557,
+    "taxon_name": "Organopoda",
+    "common_name": "须姬尺蛾属",
+    "score": 95.13970852084195,
+    "hierarchy": {
+      "subfamily": "Sterrhinae",
+      "tribe": "Cyllopodini",
+      "genus": "Organopoda"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071030.JPG",
+    "photo_id": null,
+    "taxon_id": 124062,
+    "taxon_name": "Boarmiini",
+    "common_name": "雕尺蛾族",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Ennominae",
+      "tribe": "Boarmiini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071029.JPG",
+    "photo_id": null,
+    "taxon_id": 125967,
+    "taxon_name": "Monosyntaxis",
+    "common_name": null,
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Arctiinae",
+      "tribe": "Lithosiini",
+      "genus": "Monosyntaxis"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\3\\P5071028.JPG",
+    "photo_id": null,
+    "taxon_id": 125967,
+    "taxon_name": "Monosyntaxis",
+    "common_name": null,
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Arctiinae",
+      "tribe": "Lithosiini",
+      "genus": "Monosyntaxis"
+    }
+  }
+]

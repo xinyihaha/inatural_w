@@ -1,0 +1,327 @@
+[
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5060510.JPG",
+    "photo_id": null,
+    "taxon_id": 1072427,
+    "taxon_name": "Limacodinae",
+    "common_name": "刺蛾亚科",
+    "score": 85.6472608208523,
+    "hierarchy": {
+      "subfamily": "Limacodinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5060511.JPG",
+    "photo_id": null,
+    "taxon_id": 124062,
+    "taxon_name": "Boarmiini",
+    "common_name": "雕尺蛾族",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Ennominae",
+      "tribe": "Boarmiini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5060513.JPG",
+    "photo_id": null,
+    "taxon_id": 209551,
+    "taxon_name": "Hypochrosis",
+    "common_name": "蚀尺蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Ennominae",
+      "tribe": "Hypochrosini",
+      "genus": "Hypochrosis"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5060514.JPG",
+    "photo_id": null,
+    "taxon_id": 475056,
+    "taxon_name": "Ornithospila",
+    "common_name": "绿萍尺蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Geometrinae",
+      "tribe": "Ornithospilini",
+      "genus": "Ornithospila"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5060515.JPG",
+    "photo_id": null,
+    "taxon_id": 122930,
+    "taxon_name": "Epipaschiinae",
+    "common_name": "丛螟亚科",
+    "score": 93.3449150081651,
+    "hierarchy": {
+      "subfamily": "Epipaschiinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5070642.JPG",
+    "photo_id": null,
+    "taxon_id": 47607,
+    "taxon_name": "Noctuoidea",
+    "common_name": "夜蛾总科",
+    "score": 87.74743012877389,
+    "hierarchy": {
+      "subfamily": null,
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5070643.JPG",
+    "photo_id": null,
+    "taxon_id": 123033,
+    "taxon_name": "Ennominae",
+    "common_name": "灰尺蛾亚科",
+    "score": 94.30996695473289,
+    "hierarchy": {
+      "subfamily": "Ennominae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5070646.JPG",
+    "photo_id": null,
+    "taxon_id": 121808,
+    "taxon_name": "Ambulyx",
+    "common_name": "鹰翅天蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Smerinthinae",
+      "tribe": "Ambulycini",
+      "genus": "Ambulyx"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5070652.JPG",
+    "photo_id": null,
+    "taxon_id": 118579,
+    "taxon_name": "Rusicada",
+    "common_name": "仿桥夜蛾属",
+    "score": 80.86034367112322,
+    "hierarchy": {
+      "subfamily": "Scoliopteryginae",
+      "tribe": "Anomini",
+      "genus": "Rusicada"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5070657.JPG",
+    "photo_id": null,
+    "taxon_id": 470106,
+    "taxon_name": "Pogonopygia",
+    "common_name": "排尺蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Ennominae",
+      "tribe": "Boarmiini",
+      "genus": "Pogonopygia"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5070658.JPG",
+    "photo_id": null,
+    "taxon_id": 853821,
+    "taxon_name": "Notonagemia",
+    "common_name": "大背天蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Sphinginae",
+      "tribe": "Sphingini",
+      "genus": "Notonagemia"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5070659.JPG",
+    "photo_id": null,
+    "taxon_id": 523940,
+    "taxon_name": "Cechetra",
+    "common_name": "背线天蛾属",
+    "score": 86.38413026850854,
+    "hierarchy": {
+      "subfamily": "Macroglossinae",
+      "tribe": "Macroglossini",
+      "genus": "Cechetra"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5070660.JPG",
+    "photo_id": null,
+    "taxon_id": 124055,
+    "taxon_name": "Choerocampina",
+    "common_name": "斜纹天蛾亚族",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Macroglossinae",
+      "tribe": "Macroglossini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5070661.JPG",
+    "photo_id": null,
+    "taxon_id": 124799,
+    "taxon_name": "Sacada",
+    "common_name": "短须螟属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Pyralinae",
+      "tribe": "Pyralini",
+      "genus": "Sacada"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5070662.JPG",
+    "photo_id": null,
+    "taxon_id": 124799,
+    "taxon_name": "Sacada",
+    "common_name": "短须螟属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Pyralinae",
+      "tribe": "Pyralini",
+      "genus": "Sacada"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5070663.JPG",
+    "photo_id": null,
+    "taxon_id": 123030,
+    "taxon_name": "Epipleminae",
+    "common_name": "双尾蛾亚科",
+    "score": 92.75839907073284,
+    "hierarchy": {
+      "subfamily": "Epipleminae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5070669.JPG",
+    "photo_id": null,
+    "taxon_id": 122744,
+    "taxon_name": "Euplocia",
+    "common_name": "铅拟灯蛾属",
+    "score": 95.67957825340771,
+    "hierarchy": {
+      "subfamily": "Aganainae",
+      "tribe": null,
+      "genus": "Euplocia"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5070679.JPG",
+    "photo_id": null,
+    "taxon_id": 205288,
+    "taxon_name": "Phyllodes",
+    "common_name": "拟叶夜蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Calpinae",
+      "tribe": "Phyllodini",
+      "genus": "Phyllodes"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5070680.JPG",
+    "photo_id": null,
+    "taxon_id": 121731,
+    "taxon_name": "Eudocima",
+    "common_name": "艳叶夜蛾属",
+    "score": 83.3232863893369,
+    "hierarchy": {
+      "subfamily": "Calpinae",
+      "tribe": "Ophiderini",
+      "genus": "Eudocima"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5070682.JPG",
+    "photo_id": null,
+    "taxon_id": 121731,
+    "taxon_name": "Eudocima",
+    "common_name": "艳叶夜蛾属",
+    "score": 97.59788478457597,
+    "hierarchy": {
+      "subfamily": "Calpinae",
+      "tribe": "Ophiderini",
+      "genus": "Eudocima"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5070684.JPG",
+    "photo_id": null,
+    "taxon_id": 362689,
+    "taxon_name": "Dausara",
+    "common_name": null,
+    "score": 97.00376732181775,
+    "hierarchy": {
+      "subfamily": "Odontiinae",
+      "tribe": null,
+      "genus": "Dausara"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5070685.JPG",
+    "photo_id": null,
+    "taxon_id": 124859,
+    "taxon_name": "Athetis",
+    "common_name": "委夜蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Noctuinae",
+      "tribe": "Caradrinini",
+      "genus": "Athetis"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5070687.JPG",
+    "photo_id": null,
+    "taxon_id": 82089,
+    "taxon_name": "Arctiini",
+    "common_name": "灯蛾族",
+    "score": 91.78011738759206,
+    "hierarchy": {
+      "subfamily": "Arctiinae",
+      "tribe": "Arctiini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5070688.JPG",
+    "photo_id": null,
+    "taxon_id": 124613,
+    "taxon_name": "Arctornis",
+    "common_name": "白毒蛾属",
+    "score": 90.37909720679083,
+    "hierarchy": {
+      "subfamily": "Lymantriinae",
+      "tribe": "Arctornithini",
+      "genus": "Arctornis"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5070689.JPG",
+    "photo_id": null,
+    "taxon_id": 196982,
+    "taxon_name": "Pachynoa",
+    "common_name": null,
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Spilomelinae",
+      "tribe": "Margaroniini",
+      "genus": "Pachynoa"
+    }
+  }
+]

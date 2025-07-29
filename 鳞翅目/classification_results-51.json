@@ -1,0 +1,665 @@
+[
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050113.JPG",
+    "photo_id": null,
+    "taxon_id": 123835,
+    "taxon_name": "Lithosiina",
+    "common_name": "苔蛾亚族",
+    "score": 78.6797178487052,
+    "hierarchy": {
+      "subfamily": "Arctiinae",
+      "tribe": "Lithosiini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050119.JPG",
+    "photo_id": null,
+    "taxon_id": 55518,
+    "taxon_name": "Gelechioidea",
+    "common_name": "麦蛾总科",
+    "score": 79.33652118893374,
+    "hierarchy": {
+      "subfamily": null,
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050134.JPG",
+    "photo_id": null,
+    "taxon_id": 122486,
+    "taxon_name": "Spilomelinae",
+    "common_name": "斑野螟亚科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Spilomelinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050135.JPG",
+    "photo_id": null,
+    "taxon_id": 122486,
+    "taxon_name": "Spilomelinae",
+    "common_name": "斑野螟亚科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Spilomelinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050139.JPG",
+    "photo_id": null,
+    "taxon_id": 52002,
+    "taxon_name": "Crambidae",
+    "common_name": "草螟科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Crambidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050140.JPG",
+    "photo_id": null,
+    "taxon_id": 52002,
+    "taxon_name": "Crambidae",
+    "common_name": "草螟科",
+    "score": 98.55907040596935,
+    "hierarchy": {
+      "subfamily": "Crambidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050145.JPG",
+    "photo_id": null,
+    "taxon_id": 122486,
+    "taxon_name": "Spilomelinae",
+    "common_name": "斑野螟亚科",
+    "score": 99.10314745863415,
+    "hierarchy": {
+      "subfamily": "Spilomelinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050146.JPG",
+    "photo_id": null,
+    "taxon_id": 122486,
+    "taxon_name": "Spilomelinae",
+    "common_name": "斑野螟亚科",
+    "score": 96.66849619022332,
+    "hierarchy": {
+      "subfamily": "Spilomelinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050147.JPG",
+    "photo_id": null,
+    "taxon_id": 82089,
+    "taxon_name": "Arctiini",
+    "common_name": "灯蛾族",
+    "score": 91.24032855599651,
+    "hierarchy": {
+      "subfamily": "Arctiinae",
+      "tribe": "Arctiini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050148.JPG",
+    "photo_id": null,
+    "taxon_id": 82089,
+    "taxon_name": "Arctiini",
+    "common_name": "灯蛾族",
+    "score": 85.49333242226837,
+    "hierarchy": {
+      "subfamily": "Arctiinae",
+      "tribe": "Arctiini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050150.JPG",
+    "photo_id": null,
+    "taxon_id": 55518,
+    "taxon_name": "Gelechioidea",
+    "common_name": "麦蛾总科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": null,
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050151.JPG",
+    "photo_id": null,
+    "taxon_id": 177465,
+    "taxon_name": "Leucoma",
+    "common_name": "雪毒蛾属",
+    "score": 85.15138266345062,
+    "hierarchy": {
+      "subfamily": "Lymantriinae",
+      "tribe": "Leucomini",
+      "genus": "Leucoma"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050154.JPG",
+    "photo_id": null,
+    "taxon_id": 48847,
+    "taxon_name": "Lymantriinae",
+    "common_name": "毒蛾亚科",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Lymantriinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050155.JPG",
+    "photo_id": null,
+    "taxon_id": 48847,
+    "taxon_name": "Lymantriinae",
+    "common_name": "毒蛾亚科",
+    "score": 91.82167908378614,
+    "hierarchy": {
+      "subfamily": "Lymantriinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050156.JPG",
+    "photo_id": null,
+    "taxon_id": 199659,
+    "taxon_name": "Gymnoscelis",
+    "common_name": "勒尺蛾属",
+    "score": 93.96819931011302,
+    "hierarchy": {
+      "subfamily": "Larentiinae",
+      "tribe": "Eupitheciini",
+      "genus": "Gymnoscelis"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050158.JPG",
+    "photo_id": null,
+    "taxon_id": 122930,
+    "taxon_name": "Epipaschiinae",
+    "common_name": "丛螟亚科",
+    "score": 87.43529193928943,
+    "hierarchy": {
+      "subfamily": "Epipaschiinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050159.JPG",
+    "photo_id": null,
+    "taxon_id": 123075,
+    "taxon_name": "Cyllopodini",
+    "common_name": "艳姬尺蛾族",
+    "score": 98.2993539351814,
+    "hierarchy": {
+      "subfamily": "Sterrhinae",
+      "tribe": "Cyllopodini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050160.JPG",
+    "photo_id": null,
+    "taxon_id": 209557,
+    "taxon_name": "Organopoda",
+    "common_name": "须姬尺蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Sterrhinae",
+      "tribe": "Cyllopodini",
+      "genus": "Organopoda"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050161.JPG",
+    "photo_id": null,
+    "taxon_id": 173699,
+    "taxon_name": "Ecliptopera",
+    "common_name": "折线尺蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Larentiinae",
+      "tribe": "Cidariini",
+      "genus": "Ecliptopera"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050162.JPG",
+    "photo_id": null,
+    "taxon_id": 173699,
+    "taxon_name": "Ecliptopera",
+    "common_name": "折线尺蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Larentiinae",
+      "tribe": "Cidariini",
+      "genus": "Ecliptopera"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050163.JPG",
+    "photo_id": null,
+    "taxon_id": 173699,
+    "taxon_name": "Ecliptopera",
+    "common_name": "折线尺蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Larentiinae",
+      "tribe": "Cidariini",
+      "genus": "Ecliptopera"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050164.JPG",
+    "photo_id": null,
+    "taxon_id": 322609,
+    "taxon_name": "Odontodes",
+    "common_name": "齿蕊夜蛾属",
+    "score": 98.6507794189787,
+    "hierarchy": {
+      "subfamily": "Stictopterinae",
+      "tribe": "Odontodini",
+      "genus": "Odontodes"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050165.JPG",
+    "photo_id": null,
+    "taxon_id": 322609,
+    "taxon_name": "Odontodes",
+    "common_name": "齿蕊夜蛾属",
+    "score": 98.77791754549142,
+    "hierarchy": {
+      "subfamily": "Stictopterinae",
+      "tribe": "Odontodini",
+      "genus": "Odontodes"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050167.JPG",
+    "photo_id": null,
+    "taxon_id": 122930,
+    "taxon_name": "Epipaschiinae",
+    "common_name": "丛螟亚科",
+    "score": 93.7374050409044,
+    "hierarchy": {
+      "subfamily": "Epipaschiinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050169.JPG",
+    "photo_id": null,
+    "taxon_id": 122930,
+    "taxon_name": "Epipaschiinae",
+    "common_name": "丛螟亚科",
+    "score": 93.29880551868052,
+    "hierarchy": {
+      "subfamily": "Epipaschiinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050170.JPG",
+    "photo_id": null,
+    "taxon_id": 125233,
+    "taxon_name": "Cyana",
+    "common_name": "雪苔蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Arctiinae",
+      "tribe": "Lithosiini",
+      "genus": "Cyana"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050171.JPG",
+    "photo_id": null,
+    "taxon_id": 125233,
+    "taxon_name": "Cyana",
+    "common_name": "雪苔蛾属",
+    "score": 91.85707719858301,
+    "hierarchy": {
+      "subfamily": "Arctiinae",
+      "tribe": "Lithosiini",
+      "genus": "Cyana"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050173.JPG",
+    "photo_id": null,
+    "taxon_id": 82092,
+    "taxon_name": "Lithosiini",
+    "common_name": "苔蛾族",
+    "score": 87.06750471809974,
+    "hierarchy": {
+      "subfamily": "Arctiinae",
+      "tribe": "Lithosiini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050176.JPG",
+    "photo_id": null,
+    "taxon_id": 124613,
+    "taxon_name": "Arctornis",
+    "common_name": "白毒蛾属",
+    "score": 78.94084212403392,
+    "hierarchy": {
+      "subfamily": "Lymantriinae",
+      "tribe": "Arctornithini",
+      "genus": "Arctornis"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050177.JPG",
+    "photo_id": null,
+    "taxon_id": 122930,
+    "taxon_name": "Epipaschiinae",
+    "common_name": "丛螟亚科",
+    "score": 87.23047269920406,
+    "hierarchy": {
+      "subfamily": "Epipaschiinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050179.JPG",
+    "photo_id": null,
+    "taxon_id": 52872,
+    "taxon_name": "Nola",
+    "common_name": "瘤蛾属",
+    "score": 83.41819420834925,
+    "hierarchy": {
+      "subfamily": "Nolinae",
+      "tribe": "Nolini",
+      "genus": "Nola"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050180.JPG",
+    "photo_id": null,
+    "taxon_id": 205806,
+    "taxon_name": "Deltoplastis",
+    "common_name": "三角祝蛾属",
+    "score": 92.1444995438088,
+    "hierarchy": {
+      "subfamily": "Torodorinae",
+      "tribe": null,
+      "genus": "Deltoplastis"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050181.JPG",
+    "photo_id": null,
+    "taxon_id": 124232,
+    "taxon_name": "Eucosmini",
+    "common_name": "花小卷蛾族",
+    "score": 79.18371685420063,
+    "hierarchy": {
+      "subfamily": "Olethreutinae",
+      "tribe": "Eucosmini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050217.JPG",
+    "photo_id": null,
+    "taxon_id": 124053,
+    "taxon_name": "Macrobrochis",
+    "common_name": "网苔蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Arctiinae",
+      "tribe": "Lithosiini",
+      "genus": "Macrobrochis"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050218.JPG",
+    "photo_id": null,
+    "taxon_id": 124053,
+    "taxon_name": "Macrobrochis",
+    "common_name": "网苔蛾属",
+    "score": 93.68134338341343,
+    "hierarchy": {
+      "subfamily": "Arctiinae",
+      "tribe": "Lithosiini",
+      "genus": "Macrobrochis"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050219.JPG",
+    "photo_id": null,
+    "taxon_id": 124053,
+    "taxon_name": "Macrobrochis",
+    "common_name": "网苔蛾属",
+    "score": 92.85528405505738,
+    "hierarchy": {
+      "subfamily": "Arctiinae",
+      "tribe": "Lithosiini",
+      "genus": "Macrobrochis"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050220.JPG",
+    "photo_id": null,
+    "taxon_id": 124249,
+    "taxon_name": "Biston",
+    "common_name": "鹰尺蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Ennominae",
+      "tribe": "Boarmiini",
+      "genus": "Biston"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5050315.JPG",
+    "photo_id": null,
+    "taxon_id": 125129,
+    "taxon_name": "Cleora",
+    "common_name": "锯尺蛾属",
+    "score": 92.00026117578041,
+    "hierarchy": {
+      "subfamily": "Ennominae",
+      "tribe": "Boarmiini",
+      "genus": "Cleora"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5060003.JPG",
+    "photo_id": null,
+    "taxon_id": 124588,
+    "taxon_name": "Crocidolomia",
+    "common_name": null,
+    "score": 98.97753700330573,
+    "hierarchy": {
+      "subfamily": "Glaphyriinae",
+      "tribe": null,
+      "genus": "Crocidolomia"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5060004.JPG",
+    "photo_id": null,
+    "taxon_id": 124588,
+    "taxon_name": "Crocidolomia",
+    "common_name": null,
+    "score": 85.48229994276866,
+    "hierarchy": {
+      "subfamily": "Glaphyriinae",
+      "tribe": null,
+      "genus": "Crocidolomia"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5060005.JPG",
+    "photo_id": null,
+    "taxon_id": 125334,
+    "taxon_name": "Lemyra",
+    "common_name": "望灯蛾属",
+    "score": 93.55549919757951,
+    "hierarchy": {
+      "subfamily": "Arctiinae",
+      "tribe": "Arctiini",
+      "genus": "Lemyra"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5060006.JPG",
+    "photo_id": null,
+    "taxon_id": 701520,
+    "taxon_name": "Pylartes",
+    "common_name": null,
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Spilomelinae",
+      "tribe": null,
+      "genus": "Pylartes"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5060011.JPG",
+    "photo_id": null,
+    "taxon_id": 122482,
+    "taxon_name": "Stictopterinae",
+    "common_name": "蕊翅夜蛾亚科",
+    "score": 90.3378859363143,
+    "hierarchy": {
+      "subfamily": "Stictopterinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5060012.JPG",
+    "photo_id": null,
+    "taxon_id": 47607,
+    "taxon_name": "Noctuoidea",
+    "common_name": "夜蛾总科",
+    "score": 98.30458471910855,
+    "hierarchy": {
+      "subfamily": null,
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5060013.JPG",
+    "photo_id": null,
+    "taxon_id": 125233,
+    "taxon_name": "Cyana",
+    "common_name": "雪苔蛾属",
+    "score": 99.25155964169736,
+    "hierarchy": {
+      "subfamily": "Arctiinae",
+      "tribe": "Lithosiini",
+      "genus": "Cyana"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5060014.JPG",
+    "photo_id": null,
+    "taxon_id": 204811,
+    "taxon_name": "Ramadasa",
+    "common_name": "枝夜蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Bagisarinae",
+      "tribe": null,
+      "genus": "Ramadasa"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5060015.JPG",
+    "photo_id": null,
+    "taxon_id": 204811,
+    "taxon_name": "Ramadasa",
+    "common_name": "枝夜蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Bagisarinae",
+      "tribe": null,
+      "genus": "Ramadasa"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5060016.JPG",
+    "photo_id": null,
+    "taxon_id": 47607,
+    "taxon_name": "Noctuoidea",
+    "common_name": "夜蛾总科",
+    "score": 95.3791463747844,
+    "hierarchy": {
+      "subfamily": null,
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5060021.JPG",
+    "photo_id": null,
+    "taxon_id": 123033,
+    "taxon_name": "Ennominae",
+    "common_name": "灰尺蛾亚科",
+    "score": 93.62294456881922,
+    "hierarchy": {
+      "subfamily": "Ennominae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5060027.JPG",
+    "photo_id": null,
+    "taxon_id": 202599,
+    "taxon_name": "Agrioglypta",
+    "common_name": "野绢野螟属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Spilomelinae",
+      "tribe": "Margaroniini",
+      "genus": "Agrioglypta"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\1\\P5060028.JPG",
+    "photo_id": null,
+    "taxon_id": 49530,
+    "taxon_name": "Geometridae",
+    "common_name": "尺蛾科",
+    "score": 80.43416855742753,
+    "hierarchy": {
+      "subfamily": "Geometridae",
+      "tribe": null,
+      "genus": null
+    }
+  }
+]

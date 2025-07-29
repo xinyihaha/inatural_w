@@ -1,0 +1,197 @@
+[
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\蝴蝶\\P5020335.JPG",
+    "photo_id": null,
+    "taxon_id": 977101,
+    "taxon_name": "Ypthimina",
+    "common_name": "矍眼蝶亚族",
+    "score": 95.98035568982228,
+    "hierarchy": {
+      "subfamily": "Satyrinae",
+      "tribe": "Satyrini",
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\蝴蝶\\P5020386.JPG",
+    "photo_id": null,
+    "taxon_id": 68324,
+    "taxon_name": "Lexias",
+    "common_name": "律蛱蝶属",
+    "score": 96.41967519328524,
+    "hierarchy": {
+      "subfamily": "Limenitidinae",
+      "tribe": "Adoliadini",
+      "genus": "Lexias"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\蝴蝶\\P5020389.JPG",
+    "photo_id": null,
+    "taxon_id": 47922,
+    "taxon_name": "Nymphalidae",
+    "common_name": "蛱蝶科",
+    "score": 90.44402990368427,
+    "hierarchy": {
+      "subfamily": "Nymphalidae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\蝴蝶\\P5020391.JPG",
+    "photo_id": null,
+    "taxon_id": 52085,
+    "taxon_name": "Ypthima",
+    "common_name": "矍眼蝶属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Satyrinae",
+      "tribe": "Satyrini",
+      "genus": "Ypthima"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\蝴蝶\\P5030138.JPG",
+    "photo_id": null,
+    "taxon_id": 205225,
+    "taxon_name": "Taractrocera",
+    "common_name": "黄弄蝶属",
+    "score": 96.9652005793315,
+    "hierarchy": {
+      "subfamily": "Hesperiinae",
+      "tribe": "Taractrocerini",
+      "genus": "Taractrocera"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\蝴蝶\\P5030276.JPG",
+    "photo_id": null,
+    "taxon_id": 51579,
+    "taxon_name": "Hypolimnas",
+    "common_name": "斑蛱蝶属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Nymphalinae",
+      "tribe": "Junoniini",
+      "genus": "Hypolimnas"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\蝴蝶\\P5030290.JPG",
+    "photo_id": null,
+    "taxon_id": 134171,
+    "taxon_name": "Limenitidinae",
+    "common_name": "线蛱蝶亚科",
+    "score": 92.66015794838242,
+    "hierarchy": {
+      "subfamily": "Limenitidinae",
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\蝴蝶\\P5040091.JPG",
+    "photo_id": null,
+    "taxon_id": 52085,
+    "taxon_name": "Ypthima",
+    "common_name": "矍眼蝶属",
+    "score": 97.00068008688679,
+    "hierarchy": {
+      "subfamily": "Satyrinae",
+      "tribe": "Satyrini",
+      "genus": "Ypthima"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\蝴蝶\\P5040093.JPG",
+    "photo_id": null,
+    "taxon_id": 52085,
+    "taxon_name": "Ypthima",
+    "common_name": "矍眼蝶属",
+    "score": 98.42023957690226,
+    "hierarchy": {
+      "subfamily": "Satyrinae",
+      "tribe": "Satyrini",
+      "genus": "Ypthima"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\蝴蝶\\P5050251.JPG",
+    "photo_id": null,
+    "taxon_id": 88304,
+    "taxon_name": "Euploea",
+    "common_name": "紫斑蝶属",
+    "score": 82.8569799250017,
+    "hierarchy": {
+      "subfamily": "Danainae",
+      "tribe": "Danaini",
+      "genus": "Euploea"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\蝴蝶\\P5050253.JPG",
+    "photo_id": null,
+    "taxon_id": 88304,
+    "taxon_name": "Euploea",
+    "common_name": "紫斑蝶属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Danainae",
+      "tribe": "Danaini",
+      "genus": "Euploea"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\蝴蝶\\P5050256.JPG",
+    "photo_id": null,
+    "taxon_id": 88304,
+    "taxon_name": "Euploea",
+    "common_name": "紫斑蝶属",
+    "score": 98.31817095041507,
+    "hierarchy": {
+      "subfamily": "Danainae",
+      "tribe": "Danaini",
+      "genus": "Euploea"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\蝴蝶\\P5050260.JPG",
+    "photo_id": null,
+    "taxon_id": 47224,
+    "taxon_name": "Papilionoidea",
+    "common_name": "凤蝶总科",
+    "score": 96.39964403884696,
+    "hierarchy": {
+      "subfamily": null,
+      "tribe": null,
+      "genus": null
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\蝴蝶\\P5050264.JPG",
+    "photo_id": null,
+    "taxon_id": 88304,
+    "taxon_name": "Euploea",
+    "common_name": "紫斑蝶属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Danainae",
+      "tribe": "Danaini",
+      "genus": "Euploea"
+    }
+  },
+  {
+    "image_path": "D:\\婆罗洲\\001-整理中-sxy\\TODO\\蝴蝶\\P5050452.JPG",
+    "photo_id": null,
+    "taxon_id": 361999,
+    "taxon_name": "Tasta",
+    "common_name": "瞳尺蛾属",
+    "score": 100,
+    "hierarchy": {
+      "subfamily": "Ennominae",
+      "tribe": "Baptini",
+      "genus": "Tasta"
+    }
+  }
+]
